@@ -1,12 +1,10 @@
 - 👋 Hi, I’m @Moreno-dot
 - 👀 I’m interested in ...
-Games, JS and Sony Vegas 
+Js, C, C++, Games & Linux
 - 🌱 I’m currently learning ...
-JS
+C/C++
 - 💞️ I’m looking to collaborate on ...
 JS
-- 📫 How to reach me ...
-Youtube: Moreno AMV's
 
 <!---
 Moreno-dot/Moreno-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
