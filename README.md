@@ -13,7 +13,4 @@ Olá, meu nome é Gabriel Moreno, sou iniciante na programação e meu foco de e
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Moreno-dot&theme=blue-yellow)
 
-![Atividade recente](https://activity-graph.herokuapp.com/graph?username=Moreno-dot&theme=react-dark)
-
-![](https://komarev.com/ghpvc/?username=Moreno-dot&style=flat-square)
 
