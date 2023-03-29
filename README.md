@@ -1,6 +1,6 @@
 # Gabriel Moreno
 
-![Número de projetos](https://img.shields.io/badge/Projetos-5-blue?logo=github) 
+![Número de projetos](https://img.shields.io/badge/Projetos-3-blue?logo=github) 
 
 ### Sobre mim
 
