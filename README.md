@@ -4,7 +4,7 @@
 
 ### Sobre mim
 
-Olá, meu nome é Gabriel Moreno, sou iniciante na programação e meu foco de estudos é no desenvolvimento back-end. Atualmente, estou em busca de um estágio nesta área para aprimorar minhas habilidades e adquirir experiência. Estou buscando conhecimentos em linguagens de programação como JavaScript e NodeJS. Sou apaixonado por desenvolvimento de software e estou sempre buscando aprender mais sobre as novas tecnologias e tendências do mercado.
+Olá, meu nome é Gabriel Moreno, sou iniciante na programação e meu foco de estudos é no desenvolvimento back-end. Atualmente, estou em busca de um estágio nesta área para aprimorar minhas habilidades e adquirir experiência. Estou buscando conhecimentos em linguagens de programação como JavaScript e NodeJS.
 
 ### Contato
 
