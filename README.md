@@ -8,7 +8,7 @@ Olá, meu nome é Gabriel Moreno, sou iniciante na programação e meu foco de e
 <br>
 <h3 align="left">Contatos:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gabriel moreno" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel moreno" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jos%C3%A9-gabriel-moreno-martins-0156a520b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel moreno" height="30" width="40" /></a>
 <a href="https://instagram.com/gabmorenogab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gabmorenogab" height="30" width="40" /></a>
 </p>
 
