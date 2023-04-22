@@ -1,6 +1,6 @@
 # Gabriel Moreno
 
-![Número de projetos](https://img.shields.io/badge/Projetos-5-blue?logo=github) 
+![Número de projetos](https://img.shields.io/badge/Projetos-6-blue?logo=github) 
 ### Sobre mim
 
 Olá, meu nome é Gabriel Moreno, sou iniciante na programação e meu foco de estudos é no desenvolvimento back-end. Atualmente, estou em busca de um estágio nesta área para aprimorar minhas habilidades e adquirir experiência. Estou buscando conhecimentos em linguagens de programação como JavaScript e NodeJS.
